@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HorlogeTempsReel", "HorlogeTempsReel\HorlogeTempsReel.csproj", "{D282DBC0-FAB9-4814-B30A-4AA4F0047671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorlogeTempsReel.TU", "HorlogeTempsReel.TU\HorlogeTempsReel.TU.csproj", "{6AF08C84-777E-4F26-8F7E-E95234D93EEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D282DBC0-FAB9-4814-B30A-4AA4F0047671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D282DBC0-FAB9-4814-B30A-4AA4F0047671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D282DBC0-FAB9-4814-B30A-4AA4F0047671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D282DBC0-FAB9-4814-B30A-4AA4F0047671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF08C84-777E-4F26-8F7E-E95234D93EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF08C84-777E-4F26-8F7E-E95234D93EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF08C84-777E-4F26-8F7E-E95234D93EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF08C84-777E-4F26-8F7E-E95234D93EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D28DE9E6-54F6-497B-AC85-00B94B95BE85}
+	EndGlobalSection
+EndGlobal
